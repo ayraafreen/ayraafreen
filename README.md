@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayra Afreen</h1>
-<h3 align="center">An Aspiring Data Engineer </h3>
+<h3 align="center">An Aspiring Data Analyst </h3>
 
 - 🔭 I’m currently working on **Database Management Projects**
 
